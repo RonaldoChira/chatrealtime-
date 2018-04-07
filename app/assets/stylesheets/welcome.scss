@@ -1,0 +1,47 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body{
+  background-color:#565;
+
+}
+
+
+.contendorpadre{
+
+  width: 40%;
+    height: 100%;
+  background-color: white;
+  position: absolute;
+  top: 0;
+left: 50%;
+margin-left: -20%;
+}
+.areademensajes{
+  height: 90%;
+  background-color: #5633;
+}
+.controles{
+  padding: 0;
+  background: blue;
+}
+
+textarea{
+  width: 99%;
+  margin: 0;
+}
+button{
+  width: 100%;
+  background-color:red;
+  color: white;
+  height: 100%;
+  margin: 0;
+}
+
+.burbujamensaje{
+  background-color: white;
+  max-width: max-content;
+  padding: 6px;
+  border-radius: 5px;
+  margin-bottom: 7px;
+}
